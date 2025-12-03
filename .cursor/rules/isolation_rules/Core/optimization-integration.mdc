@@ -55,7 +55,7 @@ const optimizationRegistry = {
     priority: 1
   },
   adaptiveComplexityModel: {
-    file: "main-optimized.mdc",
+    file: "main.mdc",
     dependencies: ["hierarchicalRuleLoading"],
     priority: 2
   },

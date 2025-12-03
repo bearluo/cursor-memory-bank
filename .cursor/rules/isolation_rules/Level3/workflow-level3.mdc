@@ -74,7 +74,7 @@ This phase is largely completed in VAN mode, which identifies the task as Level 
   * **Key Existing Files (from VAN):**
       * `memory-bank/tasks.md`: Entry created, complexity set to Level 3.
       * `memory-bank/activeContext.md`: Initial context set.
-      * Relevant Core Rules loaded (e.g., `Core/memory-bank-paths.mdc`, `Core/main-optimized.mdc`).
+      * Relevant Core Rules loaded (e.g., `Core/memory-bank-paths.mdc`, `main.mdc`).
   * **Steps within this Workflow File (Confirmation):**
     1.  Confirm task is Level 3 by checking `memory-bank/tasks.md`.
     2.  Ensure core Memory Bank structure and paths are known (AI should have internalized from `main` rule).
